@@ -5,6 +5,7 @@
  ^ sesuai kebutuhan
  * lakukan
  - interview
+   ^ laravel
  - menjalankan rencana pertama 
  - jalankan bisnis 
   - pytohn
