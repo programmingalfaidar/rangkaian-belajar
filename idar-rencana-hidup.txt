@@ -4,4 +4,5 @@
  * lakukan
  - interview
  - menjalankan rencana pertama 
+ - jalankan bisnis 
  
