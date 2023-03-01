@@ -1,3 +1,5 @@
 - Belajar html dasar & Css
 - Belajar javascript & Dom
 - Membuat Porfolio
+- lanjut BeckEnd 
+- Bahasa Php
