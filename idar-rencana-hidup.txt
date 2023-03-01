@@ -1,8 +1,10 @@
  Rencana Kehidupan
  - perancangan pertama
  * jalankan
+ ^ sesuai kemampuan
+ ^ sesuai kebutuhan
  * lakukan
  - interview
  - menjalankan rencana pertama 
  - jalankan bisnis 
- 
+  - pytohn
