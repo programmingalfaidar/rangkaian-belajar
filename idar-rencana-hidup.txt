@@ -3,6 +3,7 @@
  * jalankan
  ^ sesuai kemampuan
  ^ sesuai kebutuhan
+ -kembangankan web
  * lakukan
  - interview
    ^ laravel
